@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+sounds/*
+!sounds/README.md
+!sounds/sounds.example.json
+.cache/
